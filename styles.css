@@ -1,0 +1,124 @@
+/* 全局样式微调 */
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: linear-gradient(145deg, #0b1a2e 0%, #0f212f 100%);
+  background-attachment: fixed;
+}
+
+/* 卡片样式 */
+.card-custom {
+  background: rgba(20, 30, 45, 0.7);
+  backdrop-filter: blur(2px);
+  border-radius: 1.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(72, 187, 255, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card-custom:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 30px -12px rgba(0, 0, 0, 0.5);
+  border-color: #2c7da0;
+}
+
+/* 技能标签 */
+.skill-tag {
+  display: inline-block;
+  background: #2c7da0;
+  color: white;
+  border-radius: 30px;
+  padding: 0.3rem 1rem;
+  margin: 0.2rem 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.skill-tag:hover {
+  background: #1f6390;
+  transform: scale(1.05);
+}
+
+/* 进度条 */
+.skill-bar {
+  margin: 0.8rem 0;
+}
+.skill-bar-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  margin-bottom: 0.2rem;
+}
+.skill-bar-bg {
+  background: #2d3e50;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.skill-bar-fill {
+  background: linear-gradient(90deg, #2c7da0, #5fadc6);
+  width: 0%;
+  height: 8px;
+  border-radius: 20px;
+  transition: width 1s ease;
+}
+
+/* 时间线 */
+.timeline-item {
+  display: flex;
+  margin-bottom: 1.8rem;
+}
+.timeline-icon {
+  flex-shrink: 0;
+  width: 40px;
+  font-size: 1.5rem;
+  color: #2c7da0;
+}
+.timeline-content {
+  flex-grow: 1;
+  border-left: 2px solid #2c7da0;
+  padding-left: 1rem;
+}
+.timeline-date {
+  font-weight: bold;
+  color: #5fadc6;
+  font-size: 0.9rem;
+}
+
+/* 引用块美化 */
+blockquote {
+  background: rgba(44, 125, 160, 0.15);
+  border-left: 4px solid #2c7da0;
+  border-radius: 1rem;
+  padding: 1rem 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* 响应式表格 → 卡片布局在小屏幕 */
+@media (max-width: 768px) {
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  thead {
+    display: none;
+  }
+  tr {
+    margin-bottom: 1rem;
+    border: 1px solid #2c7da0;
+    border-radius: 1rem;
+    padding: 0.8rem;
+  }
+  td {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.4rem 0;
+    border: none;
+  }
+  td:before {
+    content: attr(data-label);
+    font-weight: bold;
+    width: 40%;
+    color: #5fadc6;
+  }
+}

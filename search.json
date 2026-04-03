@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "首页",
+    "section": "",
+    "text": "欢迎来到我的个人主页。我是华中农业大学农业工程与信息技术专业硕士研究生，致力于农业信息化与智能农业技术研究。"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "我的个人主页",
+    "section": "关于我",
+    "text": "关于我\n\n学号：2025303120174\n专业：农业工程与信息技术\n兴趣：数据分析、可视化、遥感"
+  },
+  {
+    "objectID": "index.html#技能",
+    "href": "index.html#技能",
+    "title": "我的个人主页",
+    "section": "技能",
+    "text": "技能\n\nR / Python\nQuarto\nGit / GitHub— title: “cd my-personal-site” —\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "我是沈文君，华中农业大学农业工程与信息技术专业一年级硕士研究生。\n对信息技术在农业中的应用产生浓厚兴趣，目前主要研究方向包括：\n\n农业遥感监测与作物识别\n\n机器学习辅助作物生长模型\n\n农业数据可视化与决策支持\n\n开源科学工具在农业领域的应用\n\n\n“用数据赋能农业，让每一寸土地更智慧。”"
+  },
+  {
+    "objectID": "index.html#个人档案",
+    "href": "index.html#个人档案",
+    "title": "首页",
+    "section": "👤 个人档案",
+    "text": "👤 个人档案\n\n\n\n项目\n信息\n\n\n\n\n姓名\n沈文君\n\n\n学号\n2025303120174\n\n\n学校\n华中农业大学\n\n\n专业\n农业工程与信息技术（研一）\n\n\n研究方向\n农业遥感、智慧农业、作物模型"
+  },
+  {
+    "objectID": "index.html#教育背景",
+    "href": "index.html#教育背景",
+    "title": "首页",
+    "section": "教育背景",
+    "text": "教育背景\n华中农业大学 (HZAU) · 武汉, 中国\n资源与环境学院 · 硕士研究生 | 2025.09 – 至今"
+  },
+  {
+    "objectID": "index.html#技术栈与工具",
+    "href": "index.html#技术栈与工具",
+    "title": "首页",
+    "section": "技术栈与工具",
+    "text": "技术栈与工具\n\n\n\n类别\n工具\n\n\n\n\n编程语言\nPython\n\n\n数据分析\ntidyverse, pandas, numpy\n\n\n可视化\nggplot2, matplotlib, plotly\n\n\n地理空间\nQGIS, GDAL, terra, rasterio\n\n\n文档与协作\nQuarto, Git, GitHub, Positron"
+  },
+  {
+    "objectID": "index.html#当前关注",
+    "href": "index.html#当前关注",
+    "title": "首页",
+    "section": "当前关注",
+    "text": "当前关注\n\n利用机器学习预测土壤有机碳空间分布\n\n基于 Sentinel-2 影像的耕地质量快速评估\n\n可重复性数据分析工作流构建"
+  },
+  {
+    "objectID": "index.html#建站技术栈",
+    "href": "index.html#建站技术栈",
+    "title": "首页",
+    "section": "⚙️ 建站技术栈",
+    "text": "⚙️ 建站技术栈\n\n\n\n技术\n用途\n\n\n\n\nQuarto\n科学出版与网站生成\n\n\nPositron\n数据科学 IDE\n\n\nGitHub Pages\n免费托管 + 自动部署\n\n\nFont Awesome\n图标库\n\n\n自定义 CSS\n深色主题 + 动画效果"
+  },
+  {
+    "objectID": "index.html#教育经历",
+    "href": "index.html#教育经历",
+    "title": "首页",
+    "section": "🎓 教育经历",
+    "text": "🎓 教育经历\n\n\n\n\n\n&lt;div class=\"timeline-date\"&gt;2025 – 至今&lt;/div&gt;\n&lt;strong&gt;华中农业大学 · 资源与环境学院&lt;/strong&gt;&lt;br&gt;\n硕士研究生 · 农业工程与信息技术"
+  },
+  {
+    "objectID": "index.html#技术栈熟练度",
+    "href": "index.html#技术栈熟练度",
+    "title": "首页",
+    "section": "🛠️ 技术栈熟练度",
+    "text": "🛠️ 技术栈熟练度\n\n\nPython (pandas / numpy / scikit-learn)80%\n\n\n\n\n\n\n\n\n\nR (tidyverse / sf / raster)70%\n\n\n\n\n\n\n\n\n\nGIS / 遥感处理 (QGIS / ENVI / GEE)75%\n\n\n\n\n\n\n\n\n\nWeb / 数据可视化 (Quarto / Streamlit)65%"
+  },
+  {
+    "objectID": "index.html#研究兴趣",
+    "href": "index.html#研究兴趣",
+    "title": "首页",
+    "section": "📌 研究兴趣",
+    "text": "📌 研究兴趣\n🌾 智慧农业 🛰️ 农业遥感 🧠 机器学习与作物模型 📊 精准农业 🤖 农业机器人 📈 数据驱动的农业决策"
+  },
+  {
+    "objectID": "index.html#当前项目-计划",
+    "href": "index.html#当前项目-计划",
+    "title": "首页",
+    "section": "🧪 当前项目 / 计划",
+    "text": "🧪 当前项目 / 计划\n\n基于 Sentinel-2 的作物分类与长势监测 – 利用时序遥感数据提取冬小麦种植面积\n无人机多光谱影像与土壤属性反演 – 结合地面采样数据，建立有机质预测模型\n搭建农业信息共享平台原型 – 使用 Quarto + Streamlit 展示可视化成果"
+  },
+  {
+    "objectID": "about.html#自我介绍",
+    "href": "about.html#自我介绍",
+    "title": "关于我",
+    "section": "",
+    "text": "我是沈文君，华中农业大学农业工程与信息技术专业一年级硕士研究生。\n对信息技术在农业中的应用产生浓厚兴趣，目前主要研究方向包括：\n\n农业遥感监测与作物识别\n\n机器学习辅助作物生长模型\n\n农业数据可视化与决策支持\n\n开源科学工具在农业领域的应用\n\n\n“用数据赋能农业，让每一寸土地更智慧。”"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "📫 联系方式",
+    "text": "📫 联系方式\n\n\n\n渠道\n信息\n\n\n\n\n 邮箱\n2196572827@qq.com\n\n\n GitHub\ngithub.com/shenwenjun111\n\n\n QQ\n2196572827"
+  },
+  {
+    "objectID": "about.html#学术旅程与目标",
+    "href": "about.html#学术旅程与目标",
+    "title": "关于我",
+    "section": "🧭 学术旅程与目标",
+    "text": "🧭 学术旅程与目标\n\n2025-2026：掌握农业遥感数据处理全流程（数据下载→预处理→特征提取→建模）\n\n2026-2027：参与智慧农业相关课题，发表一篇核心期刊论文\n\n2027+：将研究成果转化为可落地的农业信息服务或开源工具\n\n\n已修/在读课程\n\n农业遥感技术\n地理信息系统与应用\nPython 科学计算\n机器学习与农业应用\n农业模型与模拟"
+  },
+  {
+    "objectID": "about.html#为什么选择-quarto-建站",
+    "href": "about.html#为什么选择-quarto-建站",
+    "title": "关于我",
+    "section": "💡 为什么选择 Quarto 建站？",
+    "text": "💡 为什么选择 Quarto 建站？\n\n✅ 代码+文本+输出一体化 – 可直接嵌入分析代码和结果\n\n✅ 多语言支持 – 同时使用 R 和 Python 进行数据处理\n\n✅ 一键发布到 GitHub Pages – 免费且方便分享\n\n✅ 适合学术/技术笔记 – 可以发布课程作业、研究笔记、项目文档\n\n如果你也是农业信息方向的研究生，欢迎一起交流 Quarto 的使用心得。"
+  }
+]
